@@ -13,7 +13,7 @@ The objective of this project is to analyze the Superstore sales data to underst
 ## 🛠️ Tools Used
 
 - **SQL Server** — For querying, aggregation, and KPI extraction  
-  👉 [SQL Code](./Superstore_Sales_Analysis.sql)
+  👉 [SQL Code](Superstore_Sales_Analysis.sql)
 - **Power BI** — For data visualization and dashboarding  
   👉 [Dashboard Screenshot](Superstore_Sales_Data_Analysis.png)
 - **Excel** — Raw dataset in spreadsheet format  
