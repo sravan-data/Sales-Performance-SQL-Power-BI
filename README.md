@@ -15,7 +15,7 @@ The objective of this project is to analyze the Superstore sales data to underst
 - **SQL Server** — For querying, aggregation, and KPI extraction  
   👉 [SQL Code](./Superstore_Sales_Analysis.sql)
 - **Power BI** — For data visualization and dashboarding  
-  👉 [Dashboard Screenshot](./Superstore_Sales_Data_Analysis.png)
+  👉 [Dashboard Screenshot](Superstore_Sales_Data_Analysis.png)
 - **Excel** — Raw dataset in spreadsheet format  
   👉 [Dataset File](Superstore_Orders_Data.xlsx)
 
@@ -92,7 +92,7 @@ The dataset contains transactional sales data for a retail store, including the 
 - Relationship visualization between **Sales** and **Profit**
 - Donut charts and treemaps for quick glances
 
-> 📍 *See Power BI dashboard screenshots [here](./Superstore_Sales_Data_Analysis.png).*
+> 📍 *See Power BI dashboard screenshots [here](Superstore_Sales_Data_Analysis.png).*
 
 ---
 
