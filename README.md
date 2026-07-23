@@ -100,7 +100,6 @@ The dataset contains transactional sales data for a retail store, including the 
 
 This project successfully demonstrates the power of combining SQL and Power BI for business analytics. It reveals vital insights on sales performance, customer behavior, discount efficiency, and regional trends. These insights can be leveraged for better inventory management, targeted marketing, and profit optimization.
 
----
 
 
 ---
